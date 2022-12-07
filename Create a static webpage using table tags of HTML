@@ -1,0 +1,62 @@
+<html>
+<body>
+<TABLE BORDER="1" CELLPADDING="2">
+<CAPTION ALIGN="Top"><b>Specification Table with Hours
+and Marks<CAPTION>
+<TR>
+</TR>
+<TR>
+</TR>
+<TR>
+</TR>
+<TR>
+</TR>
+<TR>
+</TR>
+<TR>
+<TH ROWSPAN="2">Unit No.</TH>
+<TH ROWSPAN="2">Unit Title</TH>
+<TH ROWSPAN="2">Teaching Hours</TH>
+<TH Colspan="4">Distribution of Theory Marks</TH>
+<TD>R Level </TD>
+<TD>U Level </TD>
+<TD>A Level </TD>
+<TD>Total Marks </TD>
+<TD> <center>I </TD>
+<TD>Introduction to Internet Technology</TD>
+<TD><center>2</TD>
+<TD><center>4</TD>
+<TD><center>4</TD>
+<TD><center>0</TD>
+<TD><center>8</TD>
+<TD> <center>II </TD>
+<TD>Basics of HTML & CSS</TD>
+<TD><center>6</TD>
+<TD><center>0</TD>
+<TD><center>2</TD>
+<TD><center>6</TD>
+<TD><center>8</TD>
+<TD> <center>III </TD>
+<TD>Active Server Pages 3.0</TD>
+<TD><center>6</TD>
+<TD><center>4</TD>
+<TD><center>8</TD>
+<TD><center>0</TD>
+<TD><center>12</TD>
+<TD> <center>IV </TD>
+<TD>Server Side Coding with VBScript and XML</TD>
+<TD><center>8</TD>
+<TD><center>2</TD>
+<TD><center>4</TD>
+<TD><center>8</TD>
+4
+</TR>
+<TR>
+</TR>
+<TR>
+</tr>
+<TR>
+</tr>
+</TABLE>
+</body>
+</html>

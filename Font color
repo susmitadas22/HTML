@@ -1,0 +1,12 @@
+<html>
+<head>
+  <title>Style Tag</title>
+</head>
+<body style="background-color:brown">
+<p style="color:yellow;font-size: 130px; font-family: Helvetica;background-color:white"><i><b>Snapchat</i></b></p>
+<p style="color:blue;font-size: 130px; font-family: Helvetica;background-color:white"><i><b>Facebook</i></b></p>
+<p style="color:red;font-size: 130px; font-family: Helvetica;background-color:black"><i><b>Netflix</i></b></p>
+<p style="color:turquoise;font-size: 130px; font-family: Helvetica;background-color:white"><i><b>Amazon Prime</i></b></p>
+<p style="color:lime;font-size: 130px; font-family: Helvetica;background-color:white"><i><b>WhatsApp</i></b></p>
+</body>
+</html>

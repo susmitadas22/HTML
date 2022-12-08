@@ -1,0 +1,21 @@
+<html>
+<head>
+     <title>text spacing</title>
+<style>
+p{
+text-indent:50px;
+letter-spacing:5px;
+line-height:0.8;
+word-spacing:10px;
+white-space:nowrap;
+}
+h1{
+text-shadow:2px 2px 5px red;
+}
+</style>
+</head>
+<body>
+<p>Text Spacing</p>
+<h1>Text Shadow</h1>
+</body>
+</html>

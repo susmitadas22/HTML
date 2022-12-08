@@ -1,0 +1,18 @@
+<html>
+<head>
+     <title>Inserted Text</title>
+</head>
+<body>
+I want <del>computer</del><ins> laptop </ins>
+
+<div id="menu" align = "left">
+<a href = "https://www.lpu.in/">LPU</a>
+<a href = "https://www.google">GOOGLE</a>
+<a href = "https://www.youtube.com">YOUTUBE</a>
+</div>
+</div id = "content" align = "left">
+<h1>Content</h1>
+<p>Content is here</p>
+</div>
+</body>
+</html>

@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>Css Link Buttons</title>
+<style>
+a:link,a:visited{
+background-color:#f44336;
+color:white;
+padding:14px 25px;
+text-alihn:center;
+text-decoration:none;
+display:inline-block;
+}
+a:hover,a:active{
+background-color:red;
+}
+
+</style>
+</head>
+<body>
+<p><b><a href="C:\Users\HP\OneDrive\Desktop\HTML\CSE326 Syllabus.pdf">Cse syllabus</a></b></p>
+
+
+</body>
+</html>

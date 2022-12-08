@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>CSS</title>
+<style>
+*{color:yellow;text-align:right;}
+H{text-align:center;color:red;fontsize:120px;font-family:cursive}
+#para1{color:blue;text-align:left}
+.para2{text-align:right;color:green;}
+
+</style>
+</head>
+<body>
+<H><h1>CSS</h1></H>
+<p id="para1">Hey guys, whats up</p>
+<p class="para2">its halloween today</p>
+</body>
+</html>

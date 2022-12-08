@@ -1,0 +1,22 @@
+<html>
+<head>
+     <title>Text Transformation</title>
+<style>
+p.uppercase{
+text-transform:uppercase;
+}
+p.lowercase{
+text-transform:lowercase;
+}
+p.capitalize{
+text-transform:capitalize;
+}
+</style>
+</head>
+<body>
+<h1>Using the text-transform property</h1>
+<p class="uppercase">Hello.</p>
+<p class="lowercase">Hey.</p>
+<p class="capitalize">capitalize.</p>
+</body>
+</html>
